@@ -1,4 +1,31 @@
-﻿<Properties StartupConfiguration="{3E8B274E-6394-453B-BFF3-10C5F39C4881}|https">
+﻿<Properties StartupConfiguration="{3E8B274E-6394-453B-BFF3-10C5F39C4881}|http">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Blog/Models/Tag.cs">
+    <Files>
+      <File FileName="Blog/Controllers/HomeController.cs" Line="20" Column="1" />
+      <File FileName="Blog/Properties/launchSettings.json" Line="27" Column="22" />
+      <File FileName="Blog/Models/BlogPost.cs" Line="15" Column="26" />
+      <File FileName="Blog/Models/Tag.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Blog_Project">
+            <Node name="Blog">
+              <Node name="Models">
+                <Node name="Tag.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Blog FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Blog PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

@@ -5,6 +5,7 @@ namespace Blog.Models
 	{
 		public Tag()
 		{
+
 		}
 	}
 }
