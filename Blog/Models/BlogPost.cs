@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Blog.Models
 {
 	public class BlogPost
@@ -13,6 +14,13 @@ namespace Blog.Models
 		public DateTime PublishedDate { get; set; }
 		public string Author { get; set; }
 		public bool Visibility { get; set; }
+
+		/* This is many to many relationship
+			by defining this property we telling .net that this blog post
+			can have multiple tags
+		 */
+		public ICollection<Tag> Tags { get; set; }
+
 
 
 		public BlogPost()
